@@ -5,3 +5,7 @@
 body{
     font-family: "Outfit", sans-serif;
 }
+
+.style-buttons{
+    @apply border-2 border-gray-ele/35 w-[280px] flex items-center  space-x-4 pr-28 rounded-[15px] text-[17px]
+}
